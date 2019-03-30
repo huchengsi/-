@@ -1,0 +1,4 @@
+﻿  SqStack.c
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\sqstack\sqstack.c(10): warning C4047: “==”:“int”与“void *”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\sqstack\sqstack.c(80): warning C4715: “pushStack”: 不是所有的控件路径都返回值
+  第二次作业顺序栈.vcxproj -> D:\xuexi  kuaile\c语言练习\第二次作业顺序栈\Debug\第二次作业顺序栈.exe

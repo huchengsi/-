@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(42): warning C4013: “Init”未定义；假设外部返回 int
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(48): warning C4133: “函数”: 从“LinkStack *”到“LinkStackPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(48): warning C4020: “pop”: 实参太多
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(49): warning C4133: “函数”: 从“LinkStack *”到“LinkStackPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\linkstack\main.c(6): warning C4133: “初始化”: 从“LinkStackPtr”到“LinkStack *”的类型不兼容
+  第二次作业链栈.vcxproj -> D:\xuexi  kuaile\c语言练习\第二次作业链栈\Debug\第二次作业链栈.exe
